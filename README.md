@@ -1,7 +1,7 @@
 # 🤖 Introduction to AI Programming – Lab Work & Tasks
 
 This repository contains **lab exercises and practical work** for the course **Introduction to AI Programming**.  
-The purpose of this repository is to provide students with **hands-on experience in Python programming and basic Artificial Intelligence concepts**.
+The purpose of this repository is to provide us with **hands-on experience in Python programming and basic Artificial Intelligence concepts**.
 
 ---
 
