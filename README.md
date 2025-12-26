@@ -43,7 +43,7 @@ The course focuses on:
 
 ---
 
-## Laboratory Work
+## Lab Work
 
 This repository includes all **official lab exercises and practice tasks** performed throughout the semester.  
 Each lab is maintained in a separate directory to ensure clarity, modularity, and ease of navigation.
