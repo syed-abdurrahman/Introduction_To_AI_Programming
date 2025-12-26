@@ -11,13 +11,9 @@
 
 ## Overview
 
-This repository contains the **laboratory work, exercises, and practical implementations** for the course **Introduction to AI Programming**.  
-The objective of this repository is to develop **strong programming fundamentals in Python** and introduce students to **core concepts used in Artificial Intelligence**.
+Welcome to the Introduction to AI Programming repository. This collection features lab exercises, practical projects, and assignments aimed at helping students strengthen their Python programming skills and gain practical experience with fundamental AI concepts.
 
-The repository is organized according to **academic standards** and is suitable for:
-- Course submissions  
-- Practice and revision  
-- Professional GitHub portfolio presentation  
+All content is structured for clarity and academic rigor, making it ideal for both learning and showcasing in a professional portfolio
 
 ---
 
@@ -74,7 +70,7 @@ Each lab is maintained in a separate directory to ensure clarity, modularity, an
 ## Repository Structure
 
 ```text
-Introduction-To-AI-Programming-Labs/
+Introduction-To-AI-Programming
 │
 ├── Lab_01/   Installation
 ├── Lab_02/   Python Basic Data Types
