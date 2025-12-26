@@ -75,7 +75,7 @@ Introduction-To-AI-Programming
 ├── Assignments
 ├── Certificates
 ├── Lab Reports Of Introduction To AI Proramming
-    ├── Lab_01/   Installation
+    
     ├── Lab_02/   Python Basic Data Types
     ├── Lab_03/   Conditional Statements
     ├── Lab_04/   User-Defined Functions
@@ -88,7 +88,9 @@ Introduction-To-AI-Programming
     ├── Lab_11/   Dictionary Comprehension
     ├── Lab_12/   Exception Handling (Introduction)
     ├── Lab_13/   File Handling
+
 ├── Lab Work Of Introduction To AI Proramming
+
     ├── Lab_01/   Installation
     ├── Lab_02/   Python Basic Data Types
     ├── Lab_03/   Conditional Statements
@@ -102,5 +104,5 @@ Introduction-To-AI-Programming
     ├── Lab_11/   Dictionary Comprehension
     ├── Lab_12/   Exception Handling (Introduction)
     ├── Lab_13/   File Handling
-│
+
 └── README.md
